@@ -1,5 +1,6 @@
 ﻿namespace Disa.Framework
 {
+
     /// <summary>
     /// A centralized collection of official meta-data and other supporting elements for our Google Analytics implementation.
     /// 
